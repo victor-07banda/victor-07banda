@@ -1,16 +1,35 @@
-## Hi there 👋
+# Victor Banda
+### Finance and Banking Graduate |Aspiring Financial Analyst and FinTech Enthusiast 
 
-<!--
-**victor-07banda/victor-07banda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## PROFILE SUMMARY
+Finance and Banking Graduate with a deep passion for bridging the gap between traditional finance and morden technology,
+Financial Analyst,
+Financial Automation, Predictive Analytics and Cloud Accounting 
 
-Here are some ideas to get you started:
+## 💼 Work Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *Finance and Administration Officer* | Aspire Car Hire and Motors
+🎸 February, 2021 – August , 2021
+* Budget preparations.
+* Financial Statements Preparations.
+* Prossesing payments through both cash and bank 
+* Voucher and Invoice Processing and preparation.
+* Data Entry and Computerized Accounting
+* Bank and Fund Reconciliation
+* Budgets control and Variance Analysis
+* Assets Management
+
+### *Finance and Administration Intern* | Ministry of Health and Child Care- Global Fund -NTP
+🎸 February, 2021 – August , 2021
+* Assisting in Budget preparations.
+* Prossesing payments usung PFMS System
+* Voucher and Invoice Processing
+* Data Entry and Computerized Accounting
+* Bank and Fund Reconciliation
+* Filing and Archiving
+
+---
+
+
+*
