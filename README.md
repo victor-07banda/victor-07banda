@@ -10,7 +10,7 @@ Financial Automation, Predictive Analytics and Cloud Accounting
 ## 💼 Work Experience
 
 ### *Finance and Administration Officer* | Aspire Car Hire and Motors
-🎸 February, 2021 – August , 2021
+🎸 April, 2024 – Present
 * Budget preparations.
 * Financial Statements Preparations.
 * Prossesing payments through both cash and bank 
@@ -27,9 +27,36 @@ Financial Automation, Predictive Analytics and Cloud Accounting
 * Voucher and Invoice Processing
 * Data Entry and Computerized Accounting
 * Bank and Fund Reconciliation
-* Filing and Archiving
+* Filing and Archiving.
 
----
+## 🎓 Education and Certification
 
-https://www.linkedin.com/in/victor-banda-b08aa4209?utm_source=share_via&utm_content=profile&utm_medium=member_android
-*
+### *1.Barchelor of Business Studies Honors Degree in Finance and Banking*
+*University of Zimbabwe | Graduated 2022*
+
+*3 Advanced Level Pass -2017*
+
+*8 ordinary Level Pass -2015*
+
+
+### CERTIFICATES
+
+### *Certificate in Managing Business Venture*
+*Awarded By CISCO in 2024*
+
+### *Certificate for Careers in Finance* (Corporate Finance Institution)
+*In Progress Started on 7 May 2026* 
+
+### *Certificate in CS50 Introduction to Artificial Intelligence* (Harvard University, edX)
+*In Progress Started on 5 May 2026*
+
+
+## 🛠️ Tech Stack & Skills
+*Languages:* Python
+
+
+## 📫 Connect with Me
+ **LinkedIn:**https://www.linkedin.com/in/victor-banda-b08aa4209?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+  **Email:** victorbandahh07@gmail.com
+
